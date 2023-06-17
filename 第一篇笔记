@@ -1,0 +1,26 @@
+##第一篇笔记 之 铺垫：
+
+-首先，关于操作系统的官方解释：
+
+  操作系统（英语：Operating System，缩写：OS 有没有想起iOS（苹果公司的移动操作系统））是一组有着各项功能的 相互关联的系统软件程序。【1】
+  可以将操作系统理解为软件与硬件之间的事物。
+
+-然后我们可以进一步地去了解shell的定义：
+
+  1. 在计算机科学中，shell指为使用者提供操作界面的软件（command interpreter 即命令解析器）。它接受用户命令，然后调用相应的应用程序。（之后会有提到）。
+	之所以被称为“shell”，是因为它隐藏了shell界面下面的操作系统的细节。【2】
+	Shell是一种命令语言：解释执行命令；它也是程序设计语言，有变量和参数，也有循环等。
+
+  2. 命令行式的shell：（还有图形界面shell 这里不做详细介绍）
+  文字操作系统与外部最主要的对接方式就叫做shell，shell是操作系统最外面的一层。 shell管理与操作系统之间的交流：等待你输入，向操作系统解释你的输入，并且处理各种各样的操作系统的输出结果。
+
+  3. shell提供了你与操作系统之间交流的方式。
+  交互式模式：即从键盘输入，并且可以立即得到响应的方式；
+  shell也可以运行在另外一种模式：非交互式模式。在这种模式下，shell不与用户进行交互，而是读取存放在文件中的命令，并且执行它们。当它读到文件的结尾，shell也就终止了。【3】
+
+-以上的定义可能会有些复杂，但没有理解也无伤大雅。
+
+出处：
+【1】	https://baike.baidu.com/link?url=EIGkpWWwW3_zSvDoOIB1Dg27DBboVuo7W_rS2ZASegyjwpqPcqNfI3lSSWCq6F8rItCn7mv5u7EULg1ZTbiMOxDxHExQPpy56S-XBXhJUNbLnLfrnCcfQuqlh8g-4TJr
+【2】https://baike.baidu.com/item/unix%20shell/2478385?fr=aladdin
+【3】https://baike.baidu.com/item/shell/99702?fr=aladdin
