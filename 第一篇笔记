@@ -20,7 +20,16 @@
 
 -以上的定义可能会有些复杂，但没有理解也无伤大雅。
 
+-下面就开始正题了：
+
+  这一系列笔记主要讲述的是对于日常事务大很大帮助的计算机工具，关于 computer ecosystem literacy，即计算机系统素养的。
+
+  作者的工具是一台mac，你可以在启动台中找到“终端”这个软件，并打开它。
+	
+  如果您想将您的终端个性化一点，可以打开这个网址：
+  https://support.apple.com/zh-cn/guide/terminal/trml2df0220c/2.8/mac/10.13
+
 出处：
-【1】	https://baike.baidu.com/link?url=EIGkpWWwW3_zSvDoOIB1Dg27DBboVuo7W_rS2ZASegyjwpqPcqNfI3lSSWCq6F8rItCn7mv5u7EULg1ZTbiMOxDxHExQPpy56S-XBXhJUNbLnLfrnCcfQuqlh8g-4TJr
+【1】https://baike.baidu.com/link?url=EIGkpWWwW3_zSvDoOIB1Dg27DBboVuo7W_rS2ZASegyjwpqPcqNfI3lSSWCq6F8rItCn7mv5u7EULg1ZTbiMOxDxHExQPpy56S-XBXhJUNbLnLfrnCcfQuqlh8g-4TJr
 【2】https://baike.baidu.com/item/unix%20shell/2478385?fr=aladdin
 【3】https://baike.baidu.com/item/shell/99702?fr=aladdin
